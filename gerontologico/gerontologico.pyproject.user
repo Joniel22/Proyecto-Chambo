@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 11.0.3, 2023-10-22T20:17:35. -->
+<!-- Written by QtCreator 11.0.3, 2023-10-22T20:31:40. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -146,7 +146,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">mainwindow.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.C:/Users/Joniel/Documents/GitHub/Gerontologico/Proyecto-Chambo/gerontologico/mainwindow.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Joniel/Documents/GitHub/Gerontologico/Proyecto-Chambo/gerontologico/mainwindow.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{84140db5-e0f0-482f-9a82-bb866dd56e77}</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{e60949e5-1f3a-41ce-b8de-78c9371fdd94}</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Script">C:\Users\Joniel\Documents\GitHub\Gerontologico\Proyecto-Chambo\gerontologico\mainwindow.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
